@@ -450,7 +450,7 @@ p {
   width: 90%;
 }
 #contact .contact-items {
-  /* max-width: 400px; */
+  max-width: 400px;
   width: 100%;
 }
 #contact .contact-item {
@@ -670,7 +670,7 @@ p {
 @media only screen and (min-width: 1200px) {
   /* header */
   #header .hamburger {
-    display: none;
+    display:none;
   }
   #header .nav-list ul {
     position: initial;
